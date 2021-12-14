@@ -1,0 +1,36 @@
+h3,p,h1,h2,h4,h5,h6{
+	text-align: center;
+	font-family: "宋体";
+}
+.jieshaotupian{
+	border-radius: 50%;
+	width: 400px;
+	height: 400px;
+	margin-left: 80px;
+}
+.jieshaotupian:hover{
+	box-shadow: 5px 5px black;
+}
+.jieshao{
+	background: #A0EEE1;
+	margin: 70px;
+	display: inline-block;
+	width: 40%;
+	height: 600px;
+	border-radius: 20%;
+	
+}
+.jieshao:hover{
+	transform:translate(0,-5px);
+	box-shadow: 5px 5px #BEE7E9;
+}
+body{
+	background: #BEEDC7;
+}
+#zi{
+	font-size: 50px;
+}
+#weitao{
+	position: relative;
+	top: -10px;
+}
